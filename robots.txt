@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://songlei1979.github.io/ISCG7444-week12-GEO/sitemap.xml
